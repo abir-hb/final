@@ -14,7 +14,7 @@ public class App
     {
     	
     	final Logger l = Logger.getLogger(null);
-       // Logger l = null;
+    
 		l.info( "Hello World! TL" );
     }
 }
